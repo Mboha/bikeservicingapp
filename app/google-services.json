@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715036470825",
+    "project_id": "bike-servicing-app-70096",
+    "storage_bucket": "bike-servicing-app-70096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715036470825:android:76a338505273aa88587638",
+        "android_client_info": {
+          "package_name": "com.example.bikeservicingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715036470825-9kkcsd72b3tqtnuu866mifqda0sf52rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvj9qeERzTQRBiGA53caJh3Jj0pLWQogQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715036470825-9kkcsd72b3tqtnuu866mifqda0sf52rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bike Servicing App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="googleApi">AIzaSyB0uV7TxpTmdNXA3ETugPYYPjTb1U1pwZQ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
